@@ -11,7 +11,7 @@ const CUSTOMER_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod',
         name: '影视工厂',
     },
-    zy360: {
+    thszy: {
         api: 'https://360zyzz.com/api.php/provide/vod',
         name: '360资源',
     },
