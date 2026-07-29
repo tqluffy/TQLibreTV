@@ -3,7 +3,7 @@ const CUSTOMER_SITES = {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
     },
-    ft: {
+    ftys: {
         api: 'https://www.fantuan.tv/api.php/provide/vod',
         name: '饭团影视',
     },
@@ -11,7 +11,7 @@ const CUSTOMER_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod',
         name: '影视工厂',
     },
-    360zy: {
+    zy360: {
         api: 'https://360zyzz.com/api.php/provide/vod',
         name: '360资源',
     },
